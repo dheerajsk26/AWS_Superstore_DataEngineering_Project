@@ -19,8 +19,8 @@ The “End-to-end AWS Data Engineering Project" provides a comprehensive walkthr
 
 ## Resources
 YT Source video: https://www.youtube.com/watch?v=oXLxbk5USFg&list=WL&index=14
-Instructor: @Ankit Bansal
-Dataset: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+ Instructor: @Ankit Bansal
+ Dataset: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 
 
