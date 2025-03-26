@@ -2,33 +2,25 @@
 End-to-End AWS Data Engineering Project
 
 
-# About Dataset
 ## Context
+With growing demands and cut-throat competition in the market, a Superstore Giant is seeking our knowledge to understand what works best for them. They would like to understand which products, regions, categories and customer segments they should target or avoid.
 
-With growing demands and cut-throat competition in the market, a Superstore Giant is seeking your knowledge to understand what works best for them. They would like to understand which products, regions, categories and customer segments they should target or avoid.
+## Project Description
+The “End-to-end AWS Data Engineering Project" provides a comprehensive walkthrough of building a data engineering project using Amazon Web Services (AWS). Throughout the project, the following AWS services are utilized:​
+* Identity and Access Management (IAM): For managing user permissions and security.​
+* Simple Storage Service (S3): To store and retrieve data files.​
+* AWS Glue: For data cataloging and crawlers.​
+* Amazon QuickSight: For data visualization and business intelligence.​
 
-### Metadata
+## Project Workflow 
 
-Row ID => Unique ID for each row.
-Order ID => Unique Order ID for each Customer.
-Order Date => Order Date of the product.
-Ship Date => Shipping Date of the Product.
-Ship Mode=> Shipping Mode specified by the Customer.
-Customer ID => Unique ID to identify each Customer.
-Customer Name => Name of the Customer.
-Segment => The segment where the Customer belongs.
-Country => Country of residence of the Customer.
-City => City of residence of the Customer.
-State => State of residence of the Customer.
-Postal Code => Postal Code of every Customer.
-Region => Region where the Customer belongs.
-Product ID => Unique ID of the Product.
-Category => Category of the product ordered.
-Sub-Category => Sub-Category of the product ordered.
-Product Name => Name of the Product
-Sales => Sales of the Product.
-Quantity => Quantity of the Product.
-Discount => Discount provided.
-Profit => Profit/Loss incurred.
+![AWS_project](https://github.com/user-attachments/assets/b4de554b-ea82-4791-b642-bfc30470abeb)
+
+
+## Resources
+YT Source video: https://www.youtube.com/watch?v=oXLxbk5USFg&list=WL&index=14
+Instructor: @Ankit Bansal
+Dataset: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+
 
 
